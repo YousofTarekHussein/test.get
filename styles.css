@@ -1,4 +1,8 @@
 @import url("header.css");
+* {
+    margin: auto 0px;
+    padding: 5px;
+}
 #sec{
     background-color: beige;
     height: 250px;
@@ -6,4 +10,14 @@
 #main{
     background-color: rgb(139, 12, 82);
     height: 600px;
+}
+#foot{
+    height: 50px;
+    background-color: blueviolet;
+}
+#h1
+{
+    color: cyan;
+    text-align: center;
+    
 }
