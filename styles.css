@@ -1,0 +1,9 @@
+@import url("header.css");
+#sec{
+    background-color: beige;
+    height: 250px;
+}
+#main{
+    background-color: rgb(139, 12, 82);
+    height: 600px;
+}
